@@ -1,5 +1,6 @@
 
 
+-- Test jp
 set pages 0 linesize 32767 trimspool on trim on long 1000000 longchunksize 10000000
 accept v_sqlid prompt 'Enter SQLID:'
 
