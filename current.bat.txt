@@ -1,0 +1,2 @@
+powerpoint.exe
+chrome.exe "https://www.youtube.com/watch?v=igNxBi3tfWk&t=4608s"
