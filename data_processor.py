@@ -6,7 +6,8 @@ from pyspark.sql.functions import col
 class DataProcessor:
     def __init__(self, spark):
         self.spark = spark
-
+        
+    # Create dataframe
     def create_dataframe(self, data):
         return self.spark.createDataFrame(data, ["Name", "Age"])
 
